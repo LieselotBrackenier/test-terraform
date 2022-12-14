@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="poc-secret-manager-371011"

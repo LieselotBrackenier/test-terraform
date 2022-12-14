@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate"
+    bucket = "poc-secret-manager-371011-tfstate"
     prefix = "env/prod"
   }
 }
